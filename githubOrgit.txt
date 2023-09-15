@@ -1,0 +1,34 @@
+create repo name in     = github
+create repo inner file.txt in github = github
+vs code use -
+git clone "link"     =vs code
+then show 
+create repo inner file.txt in vs code
+then crate file in vs code
+git add file2.txt   
+git commit -m ""
+git push origin main 
+next create new file in github
+dummy.txt
+then add vs code    git pull
+change changes create in github  this apply in vs code   git pull
+
+github
+ any modification = add =commit = push
+
+github
+create a new folder in the local system. use git init(command 6) to create a local git repo.
+create a repo in github
+use a git remote add origin (command 7) to set the origin
+add some file in the github
+use git pull command to see the changes in the local system
+
+git config --global user.name "user name"    
+git config --global user.name "navineshraja2605@gmail.com"  
+git clone ""
+git add filename.txt
+git status
+git commit -m ""
+
+github
+ insert = add = commit = push
