@@ -1,3 +1,4 @@
+{ 
 create new repo in          github
 create new repo inner file  github  
 
@@ -59,6 +60,15 @@ first created main or other name branch to git merge master   you can merge from
 merge but cannot see do
 git push origin main
 
+create branch in vs code
+git branch grandmaster3
+git checkout grandmaster3
+git branch grandmaster3
+git push origin grandmaster3  this add github
+
+pull request in github
+
+}
 create repo name in     = github
 create repo inner file.txt in github = github
 vs code use -
@@ -93,3 +103,18 @@ git commit -m ""
 
 github
  insert = add = commit = push
+
+
+all commands
+git clone link
+git add file.txt
+git commit -m " "
+git push origin main
+git branch -a
+git checkout main
+git merge main
+git branch -M " "
+git branck grandmaster
+git checkout grandmaster
+git push origin branch name
+
