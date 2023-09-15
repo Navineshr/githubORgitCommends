@@ -1,3 +1,64 @@
+create new repo in          github
+create new repo inner file  github  
+
+then git clone link
+
+create new file in repo test2.txt vs code
+git add test2.txt
+git commit -m "test2.txt file added"
+git push origin main
+git status
+
+remove test2.txt file vs code but not remove    github so give
+git add test2.txt
+git commit -m "test2.txt file delete"
+git push origin main
+
+create new file in repo inner
+this add in vs code
+git pull
+any change in github inner file
+this think apply in vs code  
+git pull
+
+create new folder in vs code
+you alrealy have other folder
+so give cd ..
+go back
+then you give you holder like   cd githubemc4
+there no  git hidden file no   so change git repository  git init
+
+you create two file in vs code folder 
+add two think one command     git add .
+
+you created vs code in folder githubemc4
+and inner 2 file
+
+vs code this name create new repository githubemc4
+git remote add origin link        copy link to github and paste vs code
+branch name changed   check git branch
+like master
+you can do two think
+1   git push origin master
+2   git branch -M main       -change branch name
+
+git branch
+create new branch in github like grandmaster
+git branch -a show the all branch
+there no vs code grandmaster
+git pull
+then you can see grandmaster
+create new file in grandmaster branch
+git add .  all came in staging area
+git commit -m "crete new file in grandmaster
+git push origin grandmaster
+git checkout main or grandmaster you can go this branch
+git diff main or grandmaster you can check difference
+
+first created main or other name branch to git merge master   you can merge from master branch to main branch
+merge but cannot see do
+git push origin main
+
 create repo name in     = github
 create repo inner file.txt in github = github
 vs code use -
