@@ -117,4 +117,7 @@ git branch -M " "
 git branck grandmaster
 git checkout grandmaster
 git push origin branch name
+{
+git pull request 
+resolve conflit
 
